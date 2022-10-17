@@ -1,1 +1,2 @@
-# .github
+
+Welcome to the home of the UK Third Sector Database! We are an ESRC funded group of collaborators seeking to improve data infrastructure surrounding the UK’s third sector and civil society more generally. The grant is entitled “Improving Access to and Use of Organisation-Level Data on the Third Sector and Civil Society” (Project Reference: ES/X000524/1). In this repository you can find all of the code that powers our data, dashboards, public APIs and tutorials. We also have a [website](https://uk-third-sector-database.github.io/)!
